@@ -1,0 +1,1 @@
+No Content: https://soccer-random.github.io/a8/soccer-random/sw.js
